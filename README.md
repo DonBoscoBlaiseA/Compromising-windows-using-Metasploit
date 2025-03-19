@@ -94,7 +94,8 @@ keyscan_start	Begins capturing keys typed in the target. On the Windows target, 
 
 keyscan_dump Shows the keystrokes captured so far
 ## OUTPUT:
-![Uploading {3F23C5EF-F4C5-4E0E-92FE-827C3FCC1B55}.png…]()
+![{3F23C5EF-F4C5-4E0E-92FE-827C3FCC1B55}](https://github.com/user-attachments/assets/a5ce96df-cd40-4772-b531-90cf2462d6bf)
+
 
 
 ## RESULT:
